@@ -1,4 +1,4 @@
-24419587097634025
+24429995263277023
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56546,6 +56546,13 @@ LCD 16x2 Alphanumeric 16pin
 20
 16
 Display
+I2C_LCD(OLED)
+
+
+0
+4
+4
+Display
 LCD-016N002L
 16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
 LCD-016N002L 16 x 2 Character LCD
@@ -64371,6 +64378,13 @@ solder jumper open
 0
 5
 3
+LCD
+I2C_LCD111
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -90531,6 +90545,13 @@ DFN Sensor optical IR
 8
 8
 Sensor
+HC-SR04
+
+
+0
+4
+4
+Sensor
 LuminOX_LOX-O2
 SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
 SST LuminOX O2
@@ -98606,8 +98627,29 @@ LCD9-1.5-30X19.5MM
 
 
 0
-9
-9
+4
+4
+footprint and symbols
+LEDRD254W57D500H1070
+
+
+0
+2
+2
+footprint and symbols
+MODULE_DM-OLED096-636
+
+
+0
+8
+8
+footprint and symbols
+MODULE_LCD-16X2
+
+
+0
+4
+4
 footprint and symbols
 SW_1825910-6-4
 
